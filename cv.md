@@ -19,3 +19,7 @@ town=input("Where did you grow up?\n")
 petname=input("What's your pet name?\n")
 #4. Combine the name of their city and pet and show them their band name.
 print("Your band name could be"+" " +town+" "+petname)
+```
+## Languages
+- **Russian** native
+- **English** C2 [View certificate](https://cert.efset.org/AvohbC)
